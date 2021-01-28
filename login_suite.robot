@@ -1,6 +1,6 @@
 *** Settings ***
 
-Library    AppiumLibrary    
+Library    AppiumLibrary     screenshot_root_directory=screenshot    
 
 
 *** Test Cases ***
